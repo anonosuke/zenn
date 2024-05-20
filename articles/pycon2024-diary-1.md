@@ -3,7 +3,7 @@ title: "PyCon JP 2024 で主催メンバーをやっている話"
 emoji: "🐍"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["PyCon JP 2024", "Python"]
-published: false
+published: true
 publication_name: "irsc"
 ---
 ## はじめに
