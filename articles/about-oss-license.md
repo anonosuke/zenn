@@ -3,7 +3,7 @@ title: "【ライセンス編】OSSを使う人間が気を付ける事"
 emoji: "👀"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["OSS", "license", "初心者"]
-published: false
+published: true
 publication_name: "irsc"
 ---
 
