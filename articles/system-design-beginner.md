@@ -3,7 +3,7 @@ title: "システムデザインを学ぶ - 初級編"
 emoji: "🌾"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["システムデザイン", "アーキテクチャ", "初心者"]
-published: false
+published: true
 publication_name: "irsc"
 ---
 
