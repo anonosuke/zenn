@@ -3,7 +3,7 @@ title: "NewRelicにSendGridのReputationを送る方法"
 emoji: "📩"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["NewRelic", "SendGrid", "o11y"]
-published: false
+published: true
 publication_name: "irsc"
 ---
 
